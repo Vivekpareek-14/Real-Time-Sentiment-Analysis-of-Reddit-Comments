@@ -1,0 +1,9 @@
+pyspark==3.3.0
+python-dotenv
+transformers
+torch
+cassandra-driver
+kafka-python
+huggingface-hub[hf_xet]
+hf_xet
+emoji==0.6.0

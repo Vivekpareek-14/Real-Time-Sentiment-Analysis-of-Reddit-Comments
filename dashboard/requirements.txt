@@ -1,0 +1,6 @@
+numpy==1.23.5
+pandas==1.5.3
+streamlit
+plotly==5.13.0
+cassandra-driver==3.28.0
+python-dotenv==1.0.0
